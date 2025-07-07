@@ -1,0 +1,10 @@
+flask==2.3.3
+pillow==10.0.0
+numpy==1.26.0
+opencv-python-headless==4.8.1.78
+rembg
+google-generativeai==0.3.1
+python-dotenv==1.0.0
+werkzeug==2.3.7
+onnxruntime
+google-genai
